@@ -2,6 +2,6 @@ from django.conf import settings
 from django.db import models
 class Hello(models.Model):
     'Generated Model'
-    ffqegfgsd = models.BigIntegerField()
-    lkkkd = models.CharField(max_length=256,null=True,blank=True,)
-    ksdjjd = models.DateTimeField(auto_now=True,null=True,blank=True,)
+    ffqegfgsd = models.BigIntegerField(blank=True,)
+    lkkkdffssd = models.CharField(null=True,blank=True,max_length=256,)
+    ksdjjd = models.DateTimeField(null=True,blank=True,auto_now=True,)
