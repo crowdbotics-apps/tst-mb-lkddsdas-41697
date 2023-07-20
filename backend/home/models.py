@@ -8,3 +8,6 @@ class Hi(models.Model):
     'Generated Model'
     fdffdf = models.BigIntegerField()
     erewewwe = models.BigIntegerField(null=True,blank=True,)
+class Hii(models.Model):
+    'Generated Model'
+    sdafasfsaf = models.BigIntegerField()
