@@ -1,6 +1,6 @@
 from rest_framework import viewsets
-from home.models import Hello,Hi,Hii
-from .serializers import HelloSerializer,HiSerializer,HiiSerializer
+from home.models import Hello,Hi,Hii,Hello,Hi,Hii,Hello,Hi,Hii
+from .serializers import HelloSerializer,HiSerializer,HiiSerializer,HelloSerializer,HiSerializer,HiiSerializer,HelloSerializer,HiSerializer,HiiSerializer
 from rest_framework import authentication
 from rest_framework.authtoken.serializers import AuthTokenSerializer
 from rest_framework.viewsets import ModelViewSet, ViewSet
